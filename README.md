@@ -1,4 +1,4 @@
-checking out cedrickchee approach to knowledge retention (I uyse Obsidian).   Not updated or used by me. 
+checking out cedrickchee approach to knowledge retention (I use Obsidian).   **Not updated or used by me** 
 
 # My Knowledge Wiki
 
